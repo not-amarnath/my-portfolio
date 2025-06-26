@@ -111,3 +111,12 @@ function showToast(message) {
         setTimeout(() => document.body.removeChild(toast), 400);
     }, 3000);
 }
+
+// Close mobile nav on scroll
+window.addEventListener('scroll', () => {
+    const dropdown = document.querySelector('.dropdown');
+    // Check if dropdown is open (visible)
+    if (dropdown && dropdown.style.transform === "translateY(0px)") {
+        cancel();
+    }
+});
