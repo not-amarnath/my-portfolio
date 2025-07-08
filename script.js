@@ -30,7 +30,7 @@ function closeNavbarOnClickOutside(event) {
 // Resume functionality
 function openResume() {
     // Opens the resume PDF in a new tab with download options hidden
-    window.open('myresume.pdf#toolbar=0&navpanes=0&scrollbar=0', '_blank');
+    window.open('Amarnath_Ghosh_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0', '_blank');
 }
 
 // Typewriter effect
