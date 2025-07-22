@@ -17,3 +17,27 @@ This site is designed not just as a gallery of my work, but as a living profile 
 
 ## 📂 Structure Overview
 
+├── index.html # Main portfolio page
+├── style.css # Custom styles
+├── script.js # JavaScript for interactivity
+├── README.md # This file
+├── My_Resume.pdf # Downloadable resume
+├── anime_img_updated.jpg # Avatar or illustration image
+├── pharmacy-background.jpg # Project background or visual
+├── women_tech.png # Visual for SheConnect or tech-themed content
+-----
+
+---
+
+## 📫 Contact
+
+Feel free to explore the website and reach out if you’re interested in connecting, collaborating, or providing feedback!
+
+- **GitHub:** [@not-amarnath](https://github.com/not-amarnath)
+- **LinkedIn:** [[linkedin.comamarnathghosh/in/](https://www.linkedin.com/in/amarnath-ghosh-559456260/)]
+
+---
+
+> Thank you for visiting! I'm constantly learning, improving, and building — stay tuned for updates and new projects.
+
+
