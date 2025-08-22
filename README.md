@@ -1,4 +1,4 @@
-# 🌟 Amarnath Ghosh - Portfolio Website
+# Amarnath Ghosh - Portfolio Website
 
 > A modern, responsive portfolio showcasing my journey as a full-stack developer and my passion for creating meaningful technology solutions.
 
