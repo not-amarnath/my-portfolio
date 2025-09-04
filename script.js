@@ -1,4 +1,3 @@
-// Navbar functionality
 function hamburg() {
     const navbar = document.querySelector(".dropdown");
     navbar.style.transform = "translateY(0px)";
@@ -119,4 +118,11 @@ window.addEventListener('scroll', () => {
     if (dropdown && dropdown.style.transform === "translateY(0px)") {
         cancel();
     }
+});
+
+AOS.init({
+  duration: 1500,      
+  once: true,          
+   mirror: false,       
+  easing: 'ease-in-out'
 });
